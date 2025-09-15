@@ -1,0 +1,11 @@
+AI Usage Journal
+Brent Sare
+bsare@terpmail.umd.edu
+Section 0303
+
+Week 1
+
+This week I used AI to help me explain the .find() method for
+this weeks exercises. I just needed a general idea of how it worked so I could better
+understand it. I didn't use it to complete any exercises, I just needed
+that general understanding of how .find() operates. 
