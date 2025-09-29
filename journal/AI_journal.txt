@@ -14,3 +14,10 @@ Week 2
 This week I used AI to explain to me what enumerate meant in Python
 https://chatgpt.com/share/68d0b222-78dc-800c-b14e-adee7e30d138
 
+Week 3
+This week I used AI to help explain what exercise 29 was asking for on the homework.
+At first I was confused on what the exercise was asking me to do, but AI
+helped make it much clearer for me and I understood it.
+https://g.co/gemini/share/f5c0f9ec8163
+
+
