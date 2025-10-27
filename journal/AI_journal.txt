@@ -33,3 +33,7 @@ https://chatgpt.com/share/68ec7801-ff40-800c-9817-9e488eb6d7f5
 
 
 
+Week 6
+I used AI this week to help explain what static methods are. I wanted a basic understanding
+of what they are so I could better understand the homework.
+https://chatgpt.com/share/68fee822-53f8-800c-ae50-41c88fa73bdd
