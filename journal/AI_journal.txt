@@ -39,6 +39,6 @@ of what they are so I could better understand the homework.
 https://chatgpt.com/share/68fee822-53f8-800c-ae50-41c88fa73bdd
 
 Week 7
-I used AI to help explain the importance of unittest. I konw that it's used for error checking
+I used AI to help explain the importance of unittest. I know that it's used for error checking
 but I wanted further clarification about it. 
 https://chatgpt.com/share/69082a6b-aca0-800c-9a06-d2eac00b321c
