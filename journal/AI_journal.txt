@@ -42,3 +42,8 @@ Week 7
 I used AI to help explain the importance of unittest. I know that it's used for error checking
 but I wanted further clarification about it. 
 https://chatgpt.com/share/69082a6b-aca0-800c-9a06-d2eac00b321c
+
+Week 8
+I used AI to help explain the basics of inheritance and the super() function in a way that made sense to me. I just wanted
+to get more of a basic understanding about it. 
+https://chatgpt.com/share/6915849d-5880-800c-af74-17feec335c66
