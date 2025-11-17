@@ -47,3 +47,8 @@ Week 8
 I used AI to help explain the basics of inheritance and the super() function in a way that made sense to me. I just wanted
 to get more of a basic understanding about it. 
 https://chatgpt.com/share/6915849d-5880-800c-af74-17feec335c66
+
+Week 9
+I used AI to explain what ABC meant and how it functions. It helped me grasp the concept a little better
+and understand how it works.
+https://chatgpt.com/c/691aa6d2-abd8-832f-b253-9f1fd789ef70
