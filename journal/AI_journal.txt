@@ -52,3 +52,8 @@ Week 9
 I used AI to explain what ABC meant and how it functions. It helped me grasp the concept a little better
 and understand how it works.
 https://chatgpt.com/c/691aa6d2-abd8-832f-b253-9f1fd789ef70
+
+Week 10
+I used AI to explain composition vs inheritance decisions. It was insightful and helped
+me understand the circumstances in which I would use either form of code structure. 
+https://chatgpt.com/share/6923c702-d4e4-800c-89c1-337c2d188d32
