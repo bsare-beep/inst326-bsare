@@ -57,3 +57,10 @@ Week 10
 I used AI to explain composition vs inheritance decisions. It was insightful and helped
 me understand the circumstances in which I would use either form of code structure. 
 https://chatgpt.com/share/6923c702-d4e4-800c-89c1-337c2d188d32
+
+Week 12
+I used AI to help explain how end to end workflows work. It helped me better understand
+how they operate in Python and emphasized their importance which I thought was interesting.
+https://chatgpt.com/share/69360ae8-b234-800c-83a6-243b34f1b062
+
+
