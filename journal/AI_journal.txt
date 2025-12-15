@@ -64,3 +64,8 @@ how they operate in Python and emphasized their importance which I thought was i
 https://chatgpt.com/share/69360ae8-b234-800c-83a6-243b34f1b062
 
 
+Week 13
+I used AI to help explain the importance of dataclasses. It helped me
+see how important they are in coding and explained in a clearer manner 
+why we use them. 
+https://chatgpt.com/share/693f5a50-0940-800c-90c5-6c1b7f9784a6
